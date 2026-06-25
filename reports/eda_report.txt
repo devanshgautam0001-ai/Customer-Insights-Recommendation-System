@@ -1,0 +1,26 @@
+
+==============================
+EDA REPORT
+==============================
+
+Total Customers : 96096
+
+Total Orders : 99441
+
+Total Products : 32951
+
+Average Review Score :
+4.02
+
+Most Used Payment Method :
+credit_card
+
+Most Common Order Status :
+delivered
+
+Top Customer State :
+SP
+
+Top Product Category :
+cama_mesa_banho
+
