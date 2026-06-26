@@ -281,5 +281,18 @@ MIT License
 Thank you for visiting this project.
 
 Feel free to fork, star, and contribute.
-<img width="1917" height="906" alt="Screenshot 2026-06-26 140320" src="https://github.com/user-attachments/assets/1f989235-5527-4787-a8f1-b73708d573d1" />
+<img width="1918" height="972" alt="Screenshot 2026-06-26 140205" src="https://github.com/user-attachments/assets/8b40747f-29d5-44c9-a59a-546124ab7fad" />
+<img width="1918" height="947" alt="Screenshot 2026-06-26 140218" src="https://github.com/user-attachments/assets/1b087bd1-aada-421b-99af-5e5236068a3f" />
+<img width="1915" height="961" alt="Screenshot 2026-06-26 140228" src="https://github.com/user-attachments/assets/ed4d72d3-5b53-4f7c-b603-cd81039b6b8e" />
+<img width="1918" height="958" alt="Screenshot 2026-06-26 140238" src="https://github.com/user-attachments/assets/a2ab9e04-04f3-408c-a08d-22c3624a370d" />
+<img width="1913" height="822" alt="Screenshot 2026-06-26 140247" src="https://github.com/user-attachments/assets/57c287c9-0fcd-4284-b9e3-10a69164947c" />
+<img width="1915" height="845" alt="Screenshot 2026-06-26 140254" src="https://github.com/user-attachments/assets/2f87c4ab-4e97-461b-9ac3-f127e8af41db" />
+
+
+
+
+
+
+
+
 
