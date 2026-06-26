@@ -281,3 +281,5 @@ MIT License
 Thank you for visiting this project.
 
 Feel free to fork, star, and contribute.
+<img width="1917" height="906" alt="Screenshot 2026-06-26 140320" src="https://github.com/user-attachments/assets/1f989235-5527-4787-a8f1-b73708d573d1" />
+
